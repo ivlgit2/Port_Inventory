@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "bri.port_inventory.port_inventory",
+        "description": "Port Inventory",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#port_inventory-Display",
+        "navigationComponentName": "bri.port_inventory",
+        "intentSemanticObject": "port_inventory",
+        "intentAction": "Display",
+        "html5ApplicationName": "portinventory1",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "3162be07-a77f-4de7-8970-ee0f39f0730d-1560486378206"
+        ],
+        "contentPackages": [
+            "6d0fcef5-be12-47fc-988f-c396b1140111-1689596342324"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Port Inventory",
+        "subtitle": "",
+        "searchKeywords": "Port Inventory,",
+        "displayIconUrl": "sap-icon://document",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
